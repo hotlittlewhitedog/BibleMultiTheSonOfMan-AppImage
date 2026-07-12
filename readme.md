@@ -1,7 +1,7 @@
 
 Sonofman
 ===========
-# aka BibleMultiTheSonOfMan  
+aka BibleMultiTheSonOfMan  
 
 
 Bible multi languages, free, offline, no advertising, in English, French, Italian, Spanish, Portuguese for **Terminal**.
