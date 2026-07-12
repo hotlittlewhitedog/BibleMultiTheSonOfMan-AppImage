@@ -25,6 +25,9 @@ https://www.biblemulti.org
 • My Source:  
 https://gitlab.com/hotlittlewhitedog/BibleMultiTheSonOfMan
 
+• PyPI:  
+https://pypi.org/project/sonofman
+
 • Linux - Flatpak  
 https://flathub.org/apps/details/org.hlwd.sonofman
 
