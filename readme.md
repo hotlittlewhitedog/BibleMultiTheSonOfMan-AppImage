@@ -1,6 +1,6 @@
 
 The Sonofman ![Release](https://img.shields.io/github/v/release/hotlittlewhitedog/BibleMultiTheSonOfMan-AppImage) 
-![Downloads](https://img.shields.io/github/downloads/hotlittlewhitedog/BibleMultiTheSonOfMan-AppImage/total)
+![Downloads](https://img.shields.io/github/downloads/hotlittlewhitedog/BibleMultiTheSonOfMan-AppImage/total) 
 ===========
 Aka BibleMultiTheSonOfMan  
 
